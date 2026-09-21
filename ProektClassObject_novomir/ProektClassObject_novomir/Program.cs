@@ -1,0 +1,11 @@
+﻿using ProektClassObject_novomir;
+Console.WriteLine("aaa");
+DebitCard card1 = new DebitCard(1234543245678765, 1090, "John Josh", 10000, 700);
+DebitCard card2 = new DebitCard(6512345455343431, 1243, "Ligma", 10440, 61);
+card1.Info();
+card2.Info();
+card2.PayDay();
+card1.Id = 12123123123123123;
+card2.Id = 6512345455343432;
+card1.Info();
+card2.Info();

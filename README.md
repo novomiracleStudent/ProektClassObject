@@ -1,2 +1,2 @@
 # ProektClassObject
-Create an object schoold assignment
+Create an object school assignment
